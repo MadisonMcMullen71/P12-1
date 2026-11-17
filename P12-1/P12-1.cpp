@@ -83,7 +83,7 @@ int main() {
     // Fill A seats
     for (int i = 0; i < 13; i++) {
         seats[i][5] = 'A';
-    }
+    } 
 
     // Display initial seating chart
     for (int i = 0; i < ROWS; i++) {
